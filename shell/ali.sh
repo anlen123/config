@@ -1,0 +1,1 @@
+docker run -d --name=webdav-aliyundriver --restart=always -p 8081:8080  -v /etc/localtime:/etc/localtime -v /etc/aliyun-driver/:/etc/aliyun-driver/ -e TZ="Asia/Shanghai" -e ALIYUNDRIVE_REFRESH_TOKEN="94bad5e6a0ad42e691f5e6d73cc81579" -e ALIYUNDRIVE_AUTH_PASSWORD="admin" -e JAVA_OPTS="-Xmx1g" outcastveron/webdav-aliyundriver

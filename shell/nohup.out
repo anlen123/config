@@ -1,0 +1,7 @@
+2022/04/29 04:14:55 mount helper error: fusermount: mountpoint is not empty
+2022/04/29 04:14:55 mount helper error: fusermount: if you are sure this is safe, use the 'nonempty' mount option
+2022/04/29 04:14:55 Fatal error: failed to mount FUSE fs: fusermount: exit status 1
+2022/04/29 04:43:03 mount helper error: fusermount: mountpoint is not empty
+2022/04/29 04:43:03 mount helper error: fusermount: if you are sure this is safe, use the 'nonempty' mount option
+2022/04/29 04:43:03 Fatal error: failed to mount FUSE fs: fusermount: exit status 1
+2022/04/29 04:46:14 ERROR : /root/AliTeam: Failed to unmount: exit status 1: fusermount: failed to unmount /root/AliTeam: Device or resource busy

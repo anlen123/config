@@ -1,0 +1,3 @@
+2022/04/29 04:49:06 mount helper error: fusermount: mountpoint is not empty
+2022/04/29 04:49:06 mount helper error: fusermount: if you are sure this is safe, use the 'nonempty' mount option
+2022/04/29 04:49:06 Fatal error: failed to mount FUSE fs: fusermount: exit status 1
